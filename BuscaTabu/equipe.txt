@@ -1,0 +1,7 @@
+equipe:     Álvaro de Araújo    ra120113
+            Rômulo Mincache     ra117477
+
+professor:  Igor da Penha Natal
+
+
+matéria:    Modelagem e Otimização Algoritmica
